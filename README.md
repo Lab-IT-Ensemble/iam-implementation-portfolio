@@ -24,9 +24,9 @@ filled to start applying, build it up as you go, and lead with the capabilities 
 are most confident explaining.
 -->
 
-**Name:** [YOUR NAME]
-**LinkedIn:** [linkedin.com/in/yourprofile]
-**GitHub:** [github.com/yourusername]
+**Name:** Didier Rabesoa
+**LinkedIn:** https://www.linkedin.com/in/didier-rabesoa-450a902/
+**GitHub:** [github.com/Lab-IT-Ensemble
 **Status:** In progress
 
 ---
